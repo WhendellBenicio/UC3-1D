@@ -38,6 +38,7 @@ let str3 = `Texto com interpolação: ${str1}`;
 
 ### 3. **Number**
 
+No JavaScript, o conceito de Number refere-se ao tipo de dado utilizado para representar números. Ele é um dos tipos primitivos da linguagem e pode ser utilizado para lidar com operações matemáticas e aritméticas.
 
 ```javascript
 let inteiro = 42;
@@ -46,6 +47,7 @@ let decimal = 3.14;
 
 ### 4. **Switch Case**
 
+O switch é uma estrutura de controle em JavaScript usada para executar um bloco de código entre várias alternativas baseadas no valor de uma expressão.
 
 ```javascript
 let cor = 'verde';
@@ -67,6 +69,7 @@ switch (cor) {
 
 ### 5. **If e Else**
 
+O if e o else são estruturas de controle fundamentais em JavaScript usadas para executar diferentes blocos de código com base em condições.
 
 ```javascript
 let idade = 18;
@@ -96,6 +99,8 @@ if (nota >= 90) {
 ### 6. **Prompt**
 
 
+O prompt é uma função integrada em JavaScript que exibe uma caixa de diálogo ao usuário, permitindo que ele insira dados
+
 ```javascript
 let nome = prompt('Qual é o seu nome?');
 console.log('Olá, ${nome}!`);
@@ -103,6 +108,7 @@ console.log('Olá, ${nome}!`);
 
 ### 7. **Concatenação**
 
+Em JavaScript, a concatenação é o processo de unir dois ou mais valores para formar um único valor. O mais comum é concatenar strings, mas também é possível concatenar arrays.
 
   ```javascript
   let primeiroNome = 'John';
