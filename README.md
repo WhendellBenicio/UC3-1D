@@ -9,7 +9,7 @@ Claro! Vamos explorar cada um desses conceitos em JavaScript:
 
 ### 1. **String**
 
-##### Strings são sequências de caracteres, escritas entre aspas simples ou duplas.
+Strings são sequências de caracteres, escritas entre aspas simples ou duplas.
 
 ```javascript
 let str1 = 'Texto simples'
@@ -19,7 +19,7 @@ let str3 = `Texto com interpolação: ${str1}`
 
 ### 2. **Variável**
 
-##### As variáveis ​​podem ser usadas para armazenar dados em um programa, como strings, números, objetos JSON ou valores booleanos. Em JavaScript, existem três tipos de variáveis ​​diferentes: var , let , e const .
+As variáveis ​​podem ser usadas para armazenar dados em um programa, como strings, números, objetos JSON ou valores booleanos. Em JavaScript, existem três tipos de variáveis ​​diferentes: var , let , e const .
 
 **var: Declara variáveis com escopo de função ou global.**
   ```javascript
